@@ -1,7 +1,9 @@
 # ATM-project
+
 The idea of this project how the ATM machine
 
 #Login
+
 -Provides Login Account Number and PinCode 
 
 -The Application chech if AccountNumber and password  is available on file.
